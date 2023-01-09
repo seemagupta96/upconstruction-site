@@ -1,0 +1,73 @@
+	body{
+  		font-family: arial;
+  	}
+  	#menu
+
+  	{
+  		border:1px solid #000;
+
+
+  	}
+  	#menu ul
+  	{
+  		background: #2c3e50;
+  		
+  		width:1535px;
+  		height: 60px;
+
+  	}
+  	#menu ul
+  	{
+  		list-style: none;
+  		position: relative;
+  		margin: 0;
+  		padding: 0; 
+  		float:right;
+
+  	}
+  	#menu ul a{
+  		color: #fff;
+  		text-decoration: none; 
+  		font-size: 15px;
+  		font-weight: bold;
+  		line-height: 32px;
+  		padding: 0 15px; 
+  		display: block;
+  	}
+  	#menu ul li
+  	{
+  		float: right;
+  		position: relative;
+  		margin: 9px;
+  		padding: 0; 
+
+
+  	}
+  	#menu ul ul{
+  		position: absolute;
+  		
+  		top :100%;
+  		left:0;
+  		display: none;
+  		color:block;
+  	}
+  	#menu ul ul li{
+  		float:none;
+  		width:200px;
+  	}
+  	#menu ul ul ul
+  {
+  	top:0px;
+  	right:100%;
+
+  }
+ #header
+ {
+ 	background: pink;
+ }
+ 
+
+ .slider{   
+  padding-right: 0;
+  padding-left: 0;
+ }s
